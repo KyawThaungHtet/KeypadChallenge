@@ -12,3 +12,4 @@
 /Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.pdb
 /Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.genruntimeconfig.cache
 /Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/ref/KeypadChallenge.dll
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.sourcelink.json

@@ -46,37 +46,27 @@ public class OldPhoneKeyPad
         var temp = "";
         for (int i = 0; i < input.Length; i++)
         {
-            if (input[i] == '#') 
+            switch (input[i])
             {
-                return result;
-            }
-            
-            if (input[i] == ' ')
-            {
-                continue;
-            }
-
-            if (input[i] == '0')
-            {
-                result += " ";
-            }
-
-            if (input[i] == '*') 
-            {
-                result = result.Remove(result.Length - 1);
-            }
-            else
-            {
-                temp += input[i];
-            }
-            
-            if (input[i] != input[i + 1])
-            {
-                if (temp.Length > 0)
-                {
-                    result += GetAlphabet(input[i], temp.Length);
-                    temp = "";
-                }
+                case '#':
+                    return result;
+                case '0':
+                    result += " ";
+                    break;
+                case '*':
+                    result = result.Remove(result.Length - 1);
+                    break;
+                default:
+                    temp += input[i];
+                    if (input[i] != input[i + 1])
+                    {
+                        if (temp.Length > 0)
+                        {
+                            result += GetAlphabet(input[i], temp.Length);
+                            temp = "";
+                        }
+                    }
+                    break;
             }
         }
         

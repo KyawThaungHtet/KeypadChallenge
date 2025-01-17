@@ -13,6 +13,7 @@
         "packagesPath": "/Users/kyawthaunghtet/.nuget/packages/",
         "outputPath": "/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/kyawthaunghtet/.nuget/NuGet/NuGet.Config"
         ],
