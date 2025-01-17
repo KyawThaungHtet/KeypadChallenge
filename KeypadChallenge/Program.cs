@@ -3,11 +3,11 @@
 // Represent a mapping between key and it's letters
 public class KeyMapping
 {
-    public string Key { get; set; }
-    public string Letters { get; set; }
+    public string Key { get; set; } = string.Empty;
+    public string Letters { get; set; } = string.Empty;
 }
 
-public class OldPhoneKeyPad
+public class OldPhoneKeypad
 {
     static List<KeyMapping> _keyInputs = new List<KeyMapping>
     {
@@ -35,7 +35,7 @@ public class OldPhoneKeyPad
         return "";
     }
 
-    public static string KeyPadOutput(string input)
+    public static string KeypadOutput(string input)
     {
         if (String.IsNullOrEmpty(input))
         {
@@ -79,16 +79,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        var test1 = OldPhoneKeyPad.KeyPadOutput("33#");
+        var test1 = OldPhoneKeypad.KeypadOutput("33#");
         Console.WriteLine(test1 == "E" ? $"Output: {test1} (Passed)" : $"Output: {test1} (Failed)");
         
-        var test2 = OldPhoneKeyPad.KeyPadOutput("227*#");
+        var test2 = OldPhoneKeypad.KeypadOutput("227*#");
         Console.WriteLine(test2 == "B" ? $"Output: {test2} (Passed)" : $"Output: {test2} (Failed)");
         
-        var test3 = OldPhoneKeyPad.KeyPadOutput("4433555 555666#");
+        var test3 = OldPhoneKeypad.KeypadOutput("4433555 555666#");
         Console.WriteLine(test3 == "HELLO" ? $"Output: {test3} (Passed)" : $"Output: {test3} (Failed)");
         
-        var test4 = OldPhoneKeyPad.KeyPadOutput("8 88777444666*664#");
+        var test4 = OldPhoneKeypad.KeypadOutput("8 88777444666*664#");
         Console.WriteLine(test4 == "TURING" ? $"Output: {test4} (Passed)" : $"Output: {test4} (Failed)");
     }
 }

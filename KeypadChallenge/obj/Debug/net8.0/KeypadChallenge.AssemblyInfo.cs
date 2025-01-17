@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeypadChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41620fea80ebf9bdfe1571615ae32439590afe6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+639976fc198c1959e604f9105cfe360357810ffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeypadChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeypadChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
