@@ -1,0 +1,14 @@
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/bin/Debug/net8.0/KeypadChallenge
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/bin/Debug/net8.0/KeypadChallenge.deps.json
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/bin/Debug/net8.0/KeypadChallenge.runtimeconfig.json
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/bin/Debug/net8.0/KeypadChallenge.dll
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/bin/Debug/net8.0/KeypadChallenge.pdb
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.AssemblyInfoInputs.cache
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.AssemblyInfo.cs
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.csproj.CoreCompileInputs.cache
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.dll
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/refint/KeypadChallenge.dll
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.pdb
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/KeypadChallenge.genruntimeconfig.cache
+/Users/kyawthaunghtet/RiderProjects/KeypadChallenge/KeypadChallenge/obj/Debug/net8.0/ref/KeypadChallenge.dll
