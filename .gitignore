@@ -1,0 +1,14 @@
+# Ignore Rider project files
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files (optional but useful for shared projects)
+*.user
+*.userosscache
+*.suo
